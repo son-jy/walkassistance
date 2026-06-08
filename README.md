@@ -26,14 +26,11 @@ AI-Hub의 인도보행 영상 데이터셋에서 제한된 시간과 자원을 �
 
 
 ## 구현 영상
-- 📹 [횡단보도에서 구현한 영상]()
-- 📹 [낮에 구현한 영상]()
-- 📹 [밤에 구현한 영상]()
-- 📹 [킥보드가 지나갈 때 구현한 영상]()
-
-
-## 웹페이지 시연 영상
-
+- 📹 [횡단보도에서 구현한 영상](https://youtu.be/2TFjuYEXA8k)
+- 📹 [낮에 구현한 영상](https://youtu.be/3AaGT7UPsJI)
+- 📹 [밤에 구현한 영상](https://youtu.be/LuUxrY0pYWQ)
+- 📹 [킥보드가 지나갈 때 구현한 영상](https://youtu.be/BO_NCWcO8lA)
+- 📹 [웹페이지 시연 영상](https://youtu.be/Ey9p081Ahag)
 
 
 ## 한계 및 보완점
