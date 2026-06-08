@@ -1,6 +1,7 @@
 # 보행약자 통행 보조 시스템 개발 프로젝트
 - 기간 : 2024.10.21 ~ 2024.11.18
 - 인원 : 5명
+- 역할 : 팀장, 데이터 수집/라벨링, 웹페이지 설계/구축
 - 기술 : Python, numpy, Jupyter, corab, pytorch, YOLO, OpenCV, FFmpeg
 
 
