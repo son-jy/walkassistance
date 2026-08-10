@@ -2,7 +2,7 @@
 - 기간 : 2024.10.21 ~ 2024.11.18
 - 인원 : 5명
 - 역할 : 팀장, 데이터 수집/라벨링, 웹페이지 설계/구축
-- 기술 : `Python` `numpy` `Jupyter` `corab` `pytorch` `YOLO` `OpenCV` `FFmpeg`
+- 기술 : `Python` `numpy` `Jupyter` `corab` `pytorch` `YOLO` `OpenCV` `FFmpeg` `TTS`
 - 설명 : 보행 약자의 안전하고 자유로운 이동을 지원하는 맞춤형 길안내 및 통행 보조 솔루션
 
 
